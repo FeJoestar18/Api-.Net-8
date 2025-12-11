@@ -10,6 +10,7 @@ public class WeatherForecastController(ILogger<WeatherForecastController> logger
     [
         "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
     ];
+    
 
     private readonly ILogger<WeatherForecastController> _logger = logger;
 
