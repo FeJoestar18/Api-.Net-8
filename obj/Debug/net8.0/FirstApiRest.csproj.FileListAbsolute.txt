@@ -30,3 +30,4 @@
 /home/usuario/Documentos/Apreendizado DOT NET/ApiRest/FirstApiRest/obj/Debug/net8.0/FirstApiRest.pdb
 /home/usuario/Documentos/Apreendizado DOT NET/ApiRest/FirstApiRest/obj/Debug/net8.0/FirstApiRest.genruntimeconfig.cache
 /home/usuario/Documentos/Apreendizado DOT NET/ApiRest/FirstApiRest/obj/Debug/net8.0/ref/FirstApiRest.dll
+/home/usuario/Documentos/Apreendizado DOT NET/ApiRest/FirstApiRest/obj/Debug/net8.0/FirstApiRest.sourcelink.json
